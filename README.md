@@ -1,8 +1,8 @@
 # Tool-Tip In CSS
 
-- A simple Tool-Tip with attractive and responsive UI.
+- An amazing animited Tool-Tip with attractive and responsive UI.
 - No JavaScript required!
-- The Responsive Background With Linear-Gradient.
+- The Background With Linear-Gradient.
 
 ## ScreenShots Below 👇
 
