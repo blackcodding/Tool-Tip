@@ -4,7 +4,7 @@
 - No JavaScript required!
 - The Background With Linear-Gradient.
 
-## ScreenShots Below 👇
+ScreenShots Below 👇
 
 ![screenshot](https://github.com/blackcodding/Tool-Tip/blob/master/Tooltip-Gif.gif)
 ![screenshot](https://github.com/blackcodding/Tool-Tip/blob/master/Responsive-page1.PNG)
